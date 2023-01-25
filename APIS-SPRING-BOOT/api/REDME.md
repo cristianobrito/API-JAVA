@@ -1,8 +1,8 @@
 # link
-   https://www.youtube.com/watch?v=8A38tfwG_Jg
+   https://www.youtube.com/watch?v=ZHSuNWX0dws&list=PLWXw8Gu52TRI0usqoSTLrioF6NPp-3msb&index=31
 
 # parada da aula
-    21
+    31
 # questionario
 
     1. o que é uma anotation?
